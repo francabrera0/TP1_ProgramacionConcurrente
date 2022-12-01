@@ -1,0 +1,10 @@
+org/compurrentes/beans/Data.class
+org/compurrentes/actors/DataCreator.class
+org/compurrentes/actors/Actor.class
+org/compurrentes/beans/Stats.class
+org/compurrentes/actors/DataConsumer.class
+org/compurrentes/actors/DataReviewer.class
+org/compurrentes/Program.class
+org/compurrentes/actors/DataLogger.class
+org/compurrentes/DataHandler.class
+org/compurrentes/Main.class

@@ -1,0 +1,33 @@
+PROCESS STARTS
+
+2022-04-23T12:40:00.151Z Pending Buffer size 100
+2022-04-23T12:40:00.165Z Validated Buffer size 1
+2022-04-23T12:40:00.165Z created size 297
+2022-04-23T12:40:00.165Z validated size 198
+2022-04-23T12:40:00.165Z consumed size 197
+
+2022-04-23T12:40:02.184Z Pending Buffer size 100
+2022-04-23T12:40:02.184Z Validated Buffer size 1
+2022-04-23T12:40:02.184Z created size 500
+2022-04-23T12:40:02.184Z validated size 401
+2022-04-23T12:40:02.184Z consumed size 400
+
+2022-04-23T12:40:04.197Z Pending Buffer size 100
+2022-04-23T12:40:04.197Z Validated Buffer size 1
+2022-04-23T12:40:04.197Z created size 702
+2022-04-23T12:40:04.197Z validated size 603
+2022-04-23T12:40:04.197Z consumed size 602
+
+2022-04-23T12:40:06.211Z Pending Buffer size 99
+2022-04-23T12:40:06.211Z Validated Buffer size 1
+2022-04-23T12:40:06.211Z created size 902
+2022-04-23T12:40:06.211Z validated size 804
+2022-04-23T12:40:06.211Z consumed size 803
+
+2022-04-23T12:40:08.231Z Pending Buffer size 100
+2022-04-23T12:40:08.231Z Validated Buffer size 1
+2022-04-23T12:40:08.231Z created size 1104
+2022-04-23T12:40:08.231Z validated size 1005
+2022-04-23T12:40:08.231Z consumed size 1004
+
+10 seconds have passed. Finished execution
